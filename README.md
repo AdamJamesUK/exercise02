@@ -1,2 +1,2 @@
-# exercise02
+# Coding Exercising
 Learning Webpack and Basic JavaScript
